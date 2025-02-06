@@ -1,6 +1,6 @@
 # Credit-risk-analysis_GMSC_database
 
-
+This repository shows my credit risk analysis (ongoing!) using the dataset Give Me Some Credit (Kaggle, 2011)
 
 REFERENCES
 
